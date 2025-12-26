@@ -1,0 +1,82 @@
+﻿Intro to Investment Strategies:
+* Investment Strategies: Systematic approaches employed by investors to achieve their financial objectives while managing risk
+* Buy and Hold: This strategy involves purchasing securities and holding onto them for the long term, regardless of short-term market fluctuations. Investors believe in the potential growth of their chosen assets over time.
+* Dollar-Cost Averaging (DCA): DCA involves investing a fixed amount of money at regular intervals, regardless of market conditions. This strategy helps reduce the impact of market volatility by spreading out investments over time.
+* Value Investing: Value investors seek out stocks that they believe are undervalued by the market. They analyze financial statements and look for stocks trading below their intrinsic value, aiming to buy low and sell high.
+* Growth Investing: Growth investors focus on companies with strong potential for future growth, even if their current valuations may seem high. They look for companies with innovative products, expanding markets, and robust earnings growth.
+* Dividend Investing: Dividend investors prioritize stocks that pay regular dividends. They seek out stable companies with a history of consistent dividend payments, aiming to generate a steady income stream from their investments.
+* Sector Rotation: This strategy involves shifting investments among different sectors of the economy based on economic cycles and market trends. Investors aim to capitalize on sectors poised for growth while reducing exposure to sectors facing challenges.
+* Asset Allocation: Asset allocation involves diversifying investments across different asset classes such as stocks, bonds, real estate, and commodities. The goal is to spread risk and optimize returns based on an investor's risk tolerance and financial goals.
+* Risk Management: Risk management strategies focus on minimizing potential losses during market downturns. Techniques include setting stop-loss orders, using hedging instruments like options or futures, and maintaining a diversified portfolio.
+* Technical Analysis: Technical analysts study past market data, primarily price and volume, to forecast future price movements. They use charts and statistical indicators to identify trends and patterns, making trading decisions based on these analyses.
+* Socially Responsible Investing (SRI): SRI integrates environmental, social, and governance (ESG) criteria into investment decisions. Investors consider factors such as corporate ethics, environmental sustainability, and social impact alongside financial returns.
+Intro to Personal Finance:
+* Income: Income is the lifeblood of personal finance, serving as the foundation for achieving your financial goals. It encompasses the money you earn through various sources, such as employment, business ventures, investments, and other means. Understanding and managing your income effectively is key to building wealth, financial security, and fulfilling your aspirations.
+* Saving: Saving is a fundamental pillar of personal finance, providing the groundwork for financial security and achieving your long-term goals. It involves setting aside a portion of your income regularly and intelligently managing those funds.
+* Spending: Spending is an integral part of personal finance, shaping our lifestyles and fulfilling immediate needs and desires. However, how we manage our spending habits can significantly impact our financial well-being. Finding the right balance between enjoying life today and securing our future is essential.
+* Investing: Investing is a powerful tool in personal finance that allows your money to work for you. It involves deploying funds into various assets with the aim of generating returns and building wealth over time.
+* Before diving into investing, it's essential to take care of your personal finance fundamentals. This includes building an emergency fund to cover unexpected expenses, paying off high-interest debts, creating a budget to track your expenses, and ensuring you have adequate insurance coverage. Once these basics are in place, you'll be in a stronger position to start investing for your future goals.
+
+
+Intro to the Stock Market:
+* What is the stock market?The stock market is a platform where investors buy and sell shares of publicly traded companies. A share represents fractional ownership in a corporation, being a shareholder means that you own a part of the company's capital, but you are not held personally liable for the company's debts. Purpose: The stock market allows companies to raise capital for their own benefit, while also giving investors the opportunity to own a portion of the company’s ownership and take advantage of the company’s growth
+* How stocks (shares) work: A stock represents a partial ownership in a public company. Owning a share gives you ownership of a part of the company. Market price: the current price at which a share can be purchased or sold
+* Why do people invest in stocks… Growth potential: Purchasing stocks has proven to be a safer option, offering higher returns than other types of investments such as bonds or saving accounts in the long term If a company’s value increases, the value of your shares also increase, however if a company’s value decreases, the value of your shares will also decrease
+* Understanding the stock market
+* Ticker symbol: A combination of letters that represent an individual stock (Ex: AAPL represents Apple Inc)
+* Market index: tracks the performance of a certain group of stocks, bonds or other investments (often grouped around a particular industry)
+* Ex: S&P 500, Dow Jones Industrial Average, NASDAQ Composite
+
+
+Dividends:
+* Dividends are a fundamental concept for beginners learning about investing and the stock market
+* When you own shares in a company, you become a partial owner, and dividends are a way for that company to share its profits with its shareholders. It's just like a small "thank you" payment for being a part of the company's  success.
+* Dividends are typically paid out quarterly, and the amount you receive is based on the number of shares you own. They offer a steady stream of income to investors, making them particularly attractive for those seeking stable returns
+* Dividends can be reinvested to buy more shares, helping to compound your wealth over time. However, not all companies pay dividends, as some prefer to reinvest their profits back into the business for growth.
+
+
+Intro to Fundamental Analysis:
+* What is fundamental analysis? Fundamental analysis is a method used to determine a company’s value based on the financial data by the company
+* Top investors like Warren Buffet use this strategy when buying this stock to see if the actual value of the stock matches the current price of the stock. Using this information, investors buy and sell stocks. 
+* Based on the fundamentals, investors can tell if a particular stock is undervalued, overvalued, or is at the right price. 
+* Some of the best ways to check the fundamentals of a stock include the following:
+   * P/E - This is the price to earnings ratio. This ratio shows us what the market is willing to pay for a stock based on the quarterly earnings of a stock. Each stock is grouped in a market sector and based on the P/E of the other stocks in its market sector, investors will see if the stock is overvalued, undervalued, or valued correctly. 
+   * P/S: This is the price to sales ratio. This ratio shows the amount of money investors pay per dollar of sales of the underlying stock. This  is another great way to show the fundamentals of a stock. 
+   * Dividends: If investors want a guaranteed payment, then they will want to look for dividend stocks. These are companies that have excess money and will give out monthly payments to its investors. This is known as dividends. This is a great way to make passive income without risk and a guaranteed payment. 
+   * These are just three of the many ways to see the fundamentals of a stock. 
+* All of these stocks are based on the quarterly earnings season. This happens four times a year and when stocks drastically change. This is when companies report facts about how the company is doing like earning and revenue and is compared to its expected outcome. This causes investors to change their strategies and one of the main reasons for the ups and downs of the stock market. 
+
+
+News and the Stock Market:
+* The news heavily impacts the price of a stock as major news outbreaks can make or break a stock.
+   * Negative news such as a bad earnings report and unfortunate occurrences are examples of news that lead to a selling frenzy which results in the decrease of the stock price.
+   * However, positive news such as a great earnings report or the release of a new product are examples of good news which result in a buying pressure and an increase in the stock price.
+As a result of this, many investors attempt to anticipate the news…
+      * Government Economic Reports:  The U.S Census Bureau report on durable goods helps investors understand how confident retailers are of the strength of spending in the months ahead 
+      * Company and Industry News: Keep up with the trends and know how various products are doing in the industry… keep yourself up to date and also utilize the earnings Report… although this reports only show the past they can be great at anticipating the companies growth and may contain helpful indicators of how the company will do in the future
+   * But there are always unexpected news that rattles the market… so whenever making a trade always be aware of any upcoming news that might impact your stock price
+
+
+Global Financial Markets and Economic Trends: 
+* Understanding Global Economy… 
+   * Role of Central Banks and Monetary Policy:
+      * Decisions made by central banks can impact inflation, borrowing costs, and overall economic activity, shaping the investment climate for individuals and businesses. Ex. The Eurozone Debt Crisis (2010-2012) was a sovereign debt crisis in several Eurozone countries, including Greece, Portugal, Ireland, Spain, and Italy. It was triggered by high debt levels and budget deficits, leading to soaring borrowing costs and economic instability, requiring interventions from the European Central Bank and the International Monetary Fund for stabilization.Central banks play a critical role in influencing the economy through monetary policy tools, such as adjusting interest rates and controlling money supply.
+   * Interconnectedness of Global Economies: The Global Economy is highly interconnected, meaning that events in one country can have significant effects on other economies around the world. Ex. The 2008 global financial crisis originated in the United States with the housing market crash. However, its effects were felt worldwide. European banks holding US mortgage-backed securities faced significant losses, leading to a financial contagion that spread across borders. Several European countries experienced sovereign debt crises as a result, causing ripple effects on global financial markets.
+      * Factors such as international trade and geopolitical events can also simultaneously impact multiple different countries’ economic growth and stability 
+* Different Stock Markets
+   * Investor Protections and Regulations
+      * Each market operates under specific rules and regulations
+         * Ex. The NYSE(New York Stock Exchange) is one of the largest and most regulated stock exchanges in the world. It operates under strict regulations enforced by the U.S  Securities and Exchange Commission(SEC). These regulations aim to protect investors by ensuring transparency, timely disclosure of information, and fair trade practices 
+      * Strong regulations provide better investor protections, while weaker regulations may expose investors to higher risks.
+   * Market Size and investment choices
+      * Stock markets vary in size, offering different types of investment opportunities.
+         * SSE
+            * One of the largest stock exchanges in China
+            * It includes companies like Alibaba and Tencent, providing exposure to the dynamic Chinese market and its growing tech industry.
+         * LSE:
+            * The major stock exchange in the UK
+            * It features companies such as BP, Unilever, and HSBC, offering opportunities to invest in global corporations.
+         * NYSE:
+            * One of the largest and most well known stock exchanges in the world
+            * It lists established companies like Apple, Microsoft, and Coca-Cola, providing investors with a wide range of stable and mature investment options.
+      * Larger markets list established companies (blue-chip stocks), while smaller markets may have smaller companies with higher growth potential but also higher risks.
